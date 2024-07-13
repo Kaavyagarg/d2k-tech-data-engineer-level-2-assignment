@@ -10,7 +10,7 @@ Defining constants and variables
 
 The code defines several constants and variables:
 
-base_url: This is the base URL where the data is hosted. In this case, it's https://s3.amazonaws.com/nyc-tlc/trip+data/.
+base_url: This is the base URL where the data is hosted. 
 year: This is the year for which we want to download the data. In this case, it's 2019.
 months: This is a range of months from 1 to 12, which will be used to construct the URLs for each month's data.
 data_dir: This is the directory where the downloaded files will be saved. In this case, it's a directory named "data" in the current working directory.
